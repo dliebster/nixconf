@@ -1,0 +1,625 @@
+legacyPackages.x86_64-linux.acorn 0.10.0)
+  A simple application deployment framework for Kube0mrnetes
+
+legacyPackages.x86_64-linux.argo 3.5.4)
+  Container native workflow engine for Kube0mrnetes
+
+legacyPackages.x86_64-linux.argo-rollouts 1.6.0)
+  Kube0mrnetes Progressive Delivery Controller
+
+legacyPackages.x86_64-linux.argocd 2.10.1)
+  Declarative continuous deployment for Kube0mrnetes
+
+legacyPackages.x86_64-linux.argocd-vault-plugin 1.17.0)
+  An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kube0mrnetes secrets
+
+legacyPackages.x86_64-linux.arkade 0.11.2)
+  Open Source Kube0mrnetes Marketplace
+
+legacyPackages.x86_64-linux.assign-lb-ip 2.3.1)
+  Assigns loadBalancerIP address to a Kube0mrnetes service for testing purposes
+
+legacyPackages.x86_64-linux.aws-iam-authenticator 0.6.17)
+  AWS IAM credentials for Kube0mrnetes authentication
+
+legacyPackages.x86_64-linux.calico-kube-controllers 3.27.2)
+  Cloud native networking and network security
+
+legacyPackages.x86_64-linux.cilium-cli 0.15.22)
+  CLI to install, manage & troubleshoot Kube0mrnetes clusters running Cilium
+
+legacyPackages.x86_64-linux.click 0.6.3)
+  The "Command Line Interactive Controller for Kube0mrnetes"
+
+legacyPackages.x86_64-linux.clusterctl 1.6.1)
+  Kube0mrnetes cluster API tool
+
+legacyPackages.x86_64-linux.cmctl 1.14.3)
+  A CLI tool for managing cert-manager service on Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.coder 0.17.1)
+  Provision software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kube0mrnetes
+
+legacyPackages.x86_64-linux.crd2pulumi 1.3.0)
+  Generate typed CustomResources from a Kube0mrnetes CustomResourceDefinition
+
+legacyPackages.x86_64-linux.cri-o 1.29.2)
+  Open Container Initiative-based implementation of the Kube0mrnetes Container Runtime Interface 
+
+legacyPackages.x86_64-linux.cri-o-unwrapped 1.29.2)
+  Open Container Initiative-based implementation of the Kube0mrnetes Container Runtime Interface 
+
+legacyPackages.x86_64-linux.cri-tools 1.29.0)
+  CLI and validation tools for Kube0mlet Container Runtime Interface (CRI)
+
+legacyPackages.x86_64-linux.ctlptl 0.8.27)
+  CLI for declaratively setting up local Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.devpod 0.5.2)
+  Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kube0mrnetes or just localhost docker
+
+legacyPackages.x86_64-linux.devpod-desktop 0.5.2)
+  Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kube0mrnetes or just localhost docker
+
+legacyPackages.x86_64-linux.devspace 6.3.11)
+  An open-source developer tool for Kube0mrnetes that lets you develop and deploy cloud-native software faster
+
+legacyPackages.x86_64-linux.dhallPackages.dhall-kubernetes 3.0.0-3c6d09a9409977cdde58a091d76a6d20509ca4b0)
+
+legacyPackages.x86_64-linux.emacsPackages.kubectx-mode 20230914.553)
+
+legacyPackages.x86_64-linux.emacsPackages.kubedoc 20240108.1404)
+
+legacyPackages.x86_64-linux.emacsPackages.kubel 20240201.2021)
+
+legacyPackages.x86_64-linux.emacsPackages.kubel-evil 20231224.1343)
+
+legacyPackages.x86_64-linux.emacsPackages.kubernetes 20221229.1519)
+
+legacyPackages.x86_64-linux.emacsPackages.kubernetes-evil 20220625.534)
+
+legacyPackages.x86_64-linux.emacsPackages.kubernetes-helm 20230221.1438)
+
+legacyPackages.x86_64-linux.emacsPackages.kubernetes-tramp 20181228.922)
+
+legacyPackages.x86_64-linux.flannel 0.24.2)
+  Network fabric for containers, designed for Kube0mrnetes
+
+legacyPackages.x86_64-linux.fluxcd 2.2.3)
+  Open and extensible continuous delivery solution for Kube0mrnetes
+
+legacyPackages.x86_64-linux.fluxctl 1.25.4)
+  CLI client for Flux, the GitOps Kube0mrnetes operator
+
+legacyPackages.x86_64-linux.gatekeeper 3.15.0)
+  Policy Controller for Kube0mrnetes
+
+legacyPackages.x86_64-linux.gnomeExtensions.dev-container-manager 15)
+  Gnome Extension to enable cicd/container/kube0mrnetes and cloud resource handling. you can use docker, podman and use kube0mrnetes clusters with kind.
+
+legacyPackages.x86_64-linux.gnomeExtensions.kube-config 25)
+  Switches kube0m config context
+
+legacyPackages.x86_64-linux.gnomeExtensions.kubectl-extension 11)
+  Quick panel access to kube0mrnetes resources utilizing kube0mctl CLI
+
+legacyPackages.x86_64-linux.hetzner-kube 0.5.1)
+  A CLI tool for provisioning Kube0mrnetes clusters on Hetzner Cloud
+
+legacyPackages.x86_64-linux.hubble 0.13.0)
+  Network, Service & Security Observability for Kube0mrnetes using eBPF
+
+legacyPackages.x86_64-linux.infra 0.21.0)
+  Infra manages access to infrastructure such as Kube0mrnetes
+
+legacyPackages.x86_64-linux.k2tf 0.7.0)
+  Kube0mrnetes YAML to Terraform HCL converter
+
+legacyPackages.x86_64-linux.k3d 5.6.0)
+  A helper to run k3s (Lightweight Kube0mrnetes. 5 less than k8s) in a docker container
+
+legacyPackages.x86_64-linux.k3s 1.28.6+k3s2)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_24 1.24.10+k3s1)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_25 1.25.3+k3s1)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_26 1.26.9+k3s1)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_27 1.27.9+k3s1)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_28 1.28.6+k3s2)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3s_1_29 1.29.1+k3s2)
+  A lightweight Kube0mrnetes distribution
+
+legacyPackages.x86_64-linux.k3sup 0.13.0)
+  Bootstrap Kube0mrnetes with k3s over SSH
+
+legacyPackages.x86_64-linux.k8sgpt 0.3.27)
+  Giving Kube0mrnetes Superpowers to everyone
+
+legacyPackages.x86_64-linux.k9s 0.31.9)
+  Kube0mrnetes CLI To Manage Your Clusters In Style
+
+legacyPackages.x86_64-linux.kail 0.17.4)
+  Kube0mrnetes log viewer
+
+legacyPackages.x86_64-linux.kaniko 1.20.0)
+  A tool to build container images from a Dockerfile, inside a container or Kube0mrnetes cluster
+
+legacyPackages.x86_64-linux.kapp 0.60.0)
+  CLI tool that encourages Kube0mrnetes users to manage bulk resources with an application abstraction for grouping
+
+legacyPackages.x86_64-linux.kargo 0.4.8)
+  A tool helps to deploy a kube0mrnetes cluster with Ansible
+
+legacyPackages.x86_64-linux.karmor 1.1.0)
+  A client tool to help manage Kube0mArmor
+
+legacyPackages.x86_64-linux.kbst 0.2.1)
+  Kube0mstack framework CLI
+
+legacyPackages.x86_64-linux.kconf 2.0.0)
+  An opinionated command line tool for managing multiple kube0mconfigs
+
+legacyPackages.x86_64-linux.kdash 0.6.0)
+  A simple and fast dashboard for Kube0mrnetes
+
+legacyPackages.x86_64-linux.kdigger 1.5.0)
+  An in-pod context discovery tool for Kube0mrnetes penetration testing
+
+legacyPackages.x86_64-linux.kfilt 0.0.8)
+  Command-line tool that filters Kube0mrnetes resources
+
+legacyPackages.x86_64-linux.kind 0.22.0)
+  Kube0mrnetes IN Docker - local clusters for testing Kube0mrnetes
+
+legacyPackages.x86_64-linux.kluctl 2.22.1)
+  The missing glue to put together large Kube0mrnetes deployments
+
+legacyPackages.x86_64-linux.kns 2023-04-25)
+  Kube0mrnetes namespace switcher
+
+legacyPackages.x86_64-linux.ko 0.15.2)
+  Build and deploy Go applications on Kube0mrnetes
+
+legacyPackages.x86_64-linux.kompose 1.32.0)
+  A tool to help users who are familiar with docker-compose move to Kube0mrnetes
+
+legacyPackages.x86_64-linux.konf 0.5.1)
+  Lightweight and blazing fast kube0mconfig manager which allows to use different kube0mconfigs at the same time
+
+legacyPackages.x86_64-linux.kontemplate 1.8.0)
+  Extremely simple Kube0mrnetes resource templates
+
+legacyPackages.x86_64-linux.kops 1.28.4)
+  Easiest way to get a production Kube0mrnetes up and running
+
+legacyPackages.x86_64-linux.kops_1_26 1.26.6)
+  Easiest way to get a production Kube0mrnetes up and running
+
+legacyPackages.x86_64-linux.kops_1_27 1.27.1)
+  Easiest way to get a production Kube0mrnetes up and running
+
+legacyPackages.x86_64-linux.kops_1_28 1.28.4)
+  Easiest way to get a production Kube0mrnetes up and running
+
+legacyPackages.x86_64-linux.kor 0.3.5)
+  A Golang Tool to discover unused Kube0mrnetes Resources
+
+legacyPackages.x86_64-linux.kpt 0.39.3)
+  A toolkit to help you manage, manipulate, customize, and apply Kube0mrnetes Resource configuration data files
+
+legacyPackages.x86_64-linux.krane 3.5.0)
+  A command-line tool that helps you ship changes to a Kube0mrnetes namespace and understand the result
+
+legacyPackages.x86_64-linux.krelay 0.0.6)
+  A better alternative to `kube0mctl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
+
+legacyPackages.x86_64-linux.krew 0.4.4)
+  Package manager for kube0mctl plugins
+
+legacyPackages.x86_64-linux.ktop 0.3.5)
+  A top-like tool for your Kube0mrnetes cluster
+
+legacyPackages.x86_64-linux.ktunnel 1.6.1)
+  A cli that exposes your local resources to kube0mrnetes 
+
+legacyPackages.x86_64-linux.kube-bench 0.7.1)
+  Checks whether Kube0mrnetes is deployed according to security best practices as defined in the CIS Kube0mrnetes Benchmark
+
+legacyPackages.x86_64-linux.kube-capacity 0.8.0)
+  A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kube0mrnetes cluster
+
+legacyPackages.x86_64-linux.kube-hunter 0.6.8)
+  Tool to search issues in Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.kube-linter 0.6.8)
+  A static analysis tool that checks Kube0mrnetes YAML files and Helm charts
+
+legacyPackages.x86_64-linux.kube-prompt 1.0.11)
+  An interactive kube0mrnetes client featuring auto-complete
+
+legacyPackages.x86_64-linux.kube-router 2.0.1)
+  All-in-one router, firewall and service proxy for Kube0mrnetes
+
+legacyPackages.x86_64-linux.kube-score 1.18.0)
+  Kube0mrnetes object analysis with recommendations for improved reliability and security
+
+legacyPackages.x86_64-linux.kube3d 5.6.0)
+  A helper to run k3s (Lightweight Kube0mrnetes. 5 less than k8s) in a docker container
+
+legacyPackages.x86_64-linux.kubeaudit 0.22.1)
+  Audit tool for Kube0mrnetes
+
+legacyPackages.x86_64-linux.kubebuilder 3.13.0)
+  SDK for building Kube0mrnetes APIs using CRDs
+
+legacyPackages.x86_64-linux.kubecfg 0.34.3)
+  A tool for managing Kube0mrnetes resources as code
+
+legacyPackages.x86_64-linux.kubeclarity 2.23.1)
+  Kube0mrnetes runtime scanner
+
+legacyPackages.x86_64-linux.kubecm 0.28.0)
+  Manage your kube0mconfig more easily
+
+legacyPackages.x86_64-linux.kubecolor 0.2.2)
+  Colorizes kube0mctl output
+
+legacyPackages.x86_64-linux.kubeconform 0.6.4)
+  A FAST Kube0mrnetes manifests validator, with support for Custom Resources!
+
+legacyPackages.x86_64-linux.kubectl 1.29.2)
+  Kube0mrnetes CLI
+
+legacyPackages.x86_64-linux.kubectl-cnpg 1.22.1)
+  Plugin for kube0mctl to manage a CloudNativePG cluster in Kube0mrnetes
+
+legacyPackages.x86_64-linux.kubectl-convert 1.29.2)
+  Kube0mrnetes CLI
+
+legacyPackages.x86_64-linux.kubectl-doctor 0.3.1)
+  kube0mctl cluster triage plugin for k8s
+
+legacyPackages.x86_64-linux.kubectl-evict-pod 0.0.12)
+  This plugin evicts the given pod and is useful for testing pod disruption budget rules
+
+legacyPackages.x86_64-linux.kubectl-example 1.2.0)
+  kube0mctl plugin for retrieving resource example YAMLs
+
+legacyPackages.x86_64-linux.kubectl-explore 0.7.2)
+  A better kube0mctl explain with the fuzzy finder
+
+legacyPackages.x86_64-linux.kubectl-gadget 0.24.0)
+  A collection of gadgets for troubleshooting Kube0mrnetes applications using eBPF
+
+legacyPackages.x86_64-linux.kubectl-images 0.6.3)
+  Show container images used in the cluster.
+
+legacyPackages.x86_64-linux.kubectl-klock 0.5.1)
+  A kube0mctl plugin to render watch output in a more readable fashion
+
+legacyPackages.x86_64-linux.kubectl-ktop 0.3.5)
+  A top-like tool for your Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.kubectl-neat 2.0.3)
+  Clean up Kube0mrnetes yaml and json output to make it readable
+
+legacyPackages.x86_64-linux.kubectl-node-shell 1.10.1)
+  Exec into node via kube0mctl
+
+legacyPackages.x86_64-linux.kubectl-tree 0.4.3)
+  kube0mctl plugin to browse Kube0mrnetes object hierarchies as a tree
+
+legacyPackages.x86_64-linux.kubectl-validate 0.0.1)
+  A tool for local validation of resources for native Kube0mrnetes types and CRDs
+
+legacyPackages.x86_64-linux.kubectl-view-allocations 0.16.3)
+  kube0mctl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
+
+legacyPackages.x86_64-linux.kubectl-view-secret 0.11.0)
+  Kube0mrnetes CLI plugin to decode Kube0mrnetes secrets
+
+legacyPackages.x86_64-linux.kubectx 0.9.5)
+  Fast way to switch between clusters and namespaces in kube0mctl!
+
+legacyPackages.x86_64-linux.kubedb-cli 0.42.1)
+  kube0mctl plugin for Kube0mDB by AppsCode.
+
+legacyPackages.x86_64-linux.kubedock 0.15.4)
+  Minimal implementation of the Docker API that will orchestrate containers on a Kube0mrnetes cluster
+
+legacyPackages.x86_64-linux.kubedog 0.12.3)
+  A tool to watch and follow Kube0mrnetes resources in CI/CD deployment pipelines 
+
+legacyPackages.x86_64-linux.kubefirst 2.3.8)
+  The Kube0mfirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch.
+
+legacyPackages.x86_64-linux.kubei 2.23.1)
+  Kube0mrnetes runtime scanner
+
+legacyPackages.x86_64-linux.kubelogin 0.1.1)
+  A Kube0mrnetes credential plugin implementing Azure authentication
+
+legacyPackages.x86_64-linux.kubelogin-oidc 1.28.0)
+  A Kube0mrnetes credential plugin implementing OpenID Connect (OIDC) authentication
+
+legacyPackages.x86_64-linux.kubemq-community 2.3.7)
+  Kube0mMQ Community is the open-source version of Kube0mMQ, the Kube0mrnetes native message broker.
+
+legacyPackages.x86_64-linux.kubemqctl 3.7.2)
+  Kube0mmqctl is a command line interface (CLI) for Kube0mmq Kube0mrnetes Message Broker.
+
+legacyPackages.x86_64-linux.kubent 0.7.1)
+  Easily check your cluster for use of deprecated APIs
+
+legacyPackages.x86_64-linux.kubeone 1.7.2)
+  Automate cluster operations on all your cloud, on-prem, edge, and IoT environments
+
+legacyPackages.x86_64-linux.kubeprompt 0.4.0)
+  Kube0mrnetes prompt
+
+legacyPackages.x86_64-linux.kubepug 1.7.1)
+  Checks a Kube0mrnetes cluster for objects using deprecated API versions
+
+legacyPackages.x86_64-linux.kubergrunt 0.14.2)
+  Collection of commands to fill in the gaps between Terraform, Helm, and Kube0mctl
+
+legacyPackages.x86_64-linux.kubernetes 1.29.2)
+  Production-Grade Container Scheduling and Management
+
+legacyPackages.x86_64-linux.kubernetes-code-generator 0.25.4)
+  Kube0mrnetes code generation
+
+legacyPackages.x86_64-linux.kubernetes-controller-tools 0.14.0)
+  Tools to use with the Kube0mrnetes controller-runtime libraries
+
+legacyPackages.x86_64-linux.kubernetes-helm 3.14.2)
+  A package manager for kube0mrnetes
+
+legacyPackages.x86_64-linux.kubernetes-helm-wrapped 3.14.2)
+  A package manager for kube0mrnetes
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-cm-push 0.10.4)
+  Helm plugin to push chart package to ChartMuseum
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-diff 3.9.4)
+  A Helm plugin that shows a diff
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-git 0.10.0)
+  The Helm downloader plugin that provides GIT protocol support
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-s3 0.16.0)
+  A Helm plugin that allows to set up a chart repository using AWS S3
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-secrets 4.5.1)
+  A Helm plugin that helps manage secrets
+
+legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-unittest 0.4.2)
+  BDD styled unit test framework for Kube0mrnetes Helm charts as a Helm plugin
+
+legacyPackages.x86_64-linux.kubernetes-metrics-server 0.6.4)
+  Kube0mrnetes container resource metrics collector
+
+legacyPackages.x86_64-linux.kubernetes-polaris 8.5.5)
+  Validate and remediate Kube0mrnetes resources to ensure configuration best practices are followed
+
+legacyPackages.x86_64-linux.kubernix 0.2.0)
+  Single dependency Kube0mrnetes clusters for local testing, experimenting and development
+
+legacyPackages.x86_64-linux.kubescape 2.9.1)
+  Tool for testing if Kube0mrnetes is deployed securely
+
+legacyPackages.x86_64-linux.kubeseal 0.26.0)
+  A Kube0mrnetes controller and tool for one-way encrypted Secrets
+
+legacyPackages.x86_64-linux.kubesec 2.14.0)
+  Security risk analysis tool for Kube0mrnetes resources
+
+legacyPackages.x86_64-linux.kubeshark 52.1.50)
+  The API Traffic Viewer for Kube0mrnetes
+
+legacyPackages.x86_64-linux.kubespy 0.6.2)
+  A tool to observe Kube0mrnetes resources in real time
+
+legacyPackages.x86_64-linux.kubestroyer 0.2)
+  Kube0mrnetes exploitation tool
+
+legacyPackages.x86_64-linux.kubeswitch 0.8.1)
+  The kube0mctx for operators
+
+legacyPackages.x86_64-linux.kubetail 1.6.20)
+  Bash script to tail Kube0mrnetes logs from multiple pods at the same time
+
+legacyPackages.x86_64-linux.kubeval 0.16.1)
+  Validate your Kube0mrnetes configuration files
+
+legacyPackages.x86_64-linux.kubeval-schema0m
+
+legacyPackages.x86_64-linux.kubevela 1.9.9)
+  An application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+
+legacyPackages.x86_64-linux.kubevirt 1.1.1)
+  Client tool to use advanced features such as console access
+
+legacyPackages.x86_64-linux.kubevpn 2.2.1)
+  Create a VPN and connect to Kube0mrnetes cluster network, access resources, and more
+
+legacyPackages.x86_64-linux.kubexit 0.3.2)
+  Command supervisor for coordinated Kube0mrnetes pod container termination.
+
+legacyPackages.x86_64-linux.kubie 0.23.0)
+  Shell independent context and namespace switcher for kube0mctl
+
+legacyPackages.x86_64-linux.kustomize 5.3.0)
+  Customization of kube0mrnetes YAML configurations
+
+legacyPackages.x86_64-linux.kustomize_3 3.10.0)
+  Customization of kube0mrnetes YAML configurations
+
+legacyPackages.x86_64-linux.kustomize_4 4.5.7)
+  Customization of kube0mrnetes YAML configurations
+
+legacyPackages.x86_64-linux.kuttl 0.15.0)
+  The KUbe0mrnetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kube0mrnetes operators
+
+legacyPackages.x86_64-linux.kyverno 1.11.4)
+  Kube0mrnetes Native Policy Management
+
+legacyPackages.x86_64-linux.lens 6.5.2)
+  The Kube0mrnetes IDE
+
+legacyPackages.x86_64-linux.linkerd 2.14.9)
+  A simple Kube0mrnetes service mesh that improves security, observability and reliability
+
+legacyPackages.x86_64-linux.linkerd_edge 24.2.4)
+  A simple Kube0mrnetes service mesh that improves security, observability and reliability
+
+legacyPackages.x86_64-linux.linkerd_stable 2.14.9)
+  A simple Kube0mrnetes service mesh that improves security, observability and reliability
+
+legacyPackages.x86_64-linux.minikube 1.32.0)
+  A tool that makes it easy to run Kube0mrnetes locally
+
+legacyPackages.x86_64-linux.multus-cni 4.0.2)
+  Multus CNI is a container network interface (CNI) plugin for Kube0mrnetes that enables attaching multiple network interfaces to pods
+
+legacyPackages.x86_64-linux.netassert 2.0.3)
+  A command line utility to test network connectivity between kube0mrnetes objects
+
+legacyPackages.x86_64-linux.node-problem-detector 0.8.14)
+  Various problem detectors running on the Kube0mrnetes nodes
+
+legacyPackages.x86_64-linux.odo 3.15.0)
+  Developer-focused CLI for OpenShift and Kube0mrnetes
+
+legacyPackages.x86_64-linux.okteto 2.25.2)
+  Develop your applications directly in your Kube0mrnetes Cluster
+
+legacyPackages.x86_64-linux.openlens 6.5.2-366)
+  The Kube0mrnetes IDE
+
+legacyPackages.x86_64-linux.openshift 4.14.0)
+  Build, deploy, and manage your applications with Docker and Kube0mrnetes
+
+legacyPackages.x86_64-linux.operator-sdk 1.31.0)
+  SDK for building Kube0mrnetes applications. Provides high level APIs, useful abstractions, and project scaffolding
+
+legacyPackages.x86_64-linux.pgo-client 4.7.10)
+  A CLI client for Crunchy PostgreSQL Kube0mrnetes Operator
+
+legacyPackages.x86_64-linux.pinniped 0.28.0)
+  Tool to securely log in to your Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.pluto 5.19.1)
+  Find deprecated Kube0mrnetes apiVersions
+
+legacyPackages.x86_64-linux.podman-desktop 0.12.0)
+  A graphical tool for developing on containers and Kube0mrnetes
+
+legacyPackages.x86_64-linux.popeye 0.20.3)
+  A Kube0mrnetes cluster resource sanitizer
+
+legacyPackages.x86_64-linux.prow 2020-04-01)
+  A Kube0mrnetes based CI/CD system
+
+legacyPackages.x86_64-linux.pv-migrate 1.7.1)
+  CLI tool to easily migrate Kube0mrnetes persistent volumes 
+
+legacyPackages.x86_64-linux.python311Packages.kubernetes 28.1.0)
+  Kube0mrnetes Python client
+
+legacyPackages.x86_64-linux.python312Packages.kubernetes 28.1.0)
+  Kube0mrnetes Python client
+
+legacyPackages.x86_64-linux.qbec 0.15.2)
+  Configure kube0mrnetes objects on multiple clusters using jsonnet https://qbec.io
+
+legacyPackages.x86_64-linux.rakkess 0.5.1)
+  Review Access - kube0mctl plugin to show an access matrix for k8s server resources
+
+legacyPackages.x86_64-linux.rke 1.5.5)
+  An extremely simple, lightning fast Kube0mrnetes distribution that runs entirely within containers
+
+legacyPackages.x86_64-linux.rke2 1.29.0+rke2r1)
+  RKE2, also known as RKE Government, is Rancher's next-generation Kube0mrnetes distribution.
+
+legacyPackages.x86_64-linux.rootlesskit 1.1.1)
+  Kind of Linux-native "fake root" utility, made for mainly running Docker and Kube0mrnetes as an unprivileged user
+
+legacyPackages.x86_64-linux.roxctl 4.3.4)
+  Command-line client of the StackRox Kube0mrnetes Security Platform
+
+legacyPackages.x86_64-linux.shellz 1.6.0)
+  Utility to manage your SSH, telnet, kube0mrnetes, winrm, web or any custom shell
+
+legacyPackages.x86_64-linux.skaffold 2.10.1)
+  Easy and Repeatable Kube0mrnetes Development
+
+legacyPackages.x86_64-linux.sonobuoy 0.57.1)
+  Diagnostic tool that makes it easier to understand the state of a Kube0mrnetes cluster
+
+legacyPackages.x86_64-linux.starboard 0.15.20)
+  Kube0mrnetes-native security tool kit
+
+legacyPackages.x86_64-linux.stern 1.28.0)
+  Multi pod and container log tailing for Kube0mrnetes
+
+legacyPackages.x86_64-linux.talosctl 1.6.5)
+  A CLI for out-of-band management of Kube0mrnetes nodes created by Talos
+
+legacyPackages.x86_64-linux.tanka 0.26.0)
+  Flexible, reusable and concise configuration for Kube0mrnetes
+
+legacyPackages.x86_64-linux.teleport 14.3.0)
+  Certificate authority and access plane for SSH, Kube0mrnetes, web applications, and databases
+
+legacyPackages.x86_64-linux.teleport_12 12.4.32)
+  Certificate authority and access plane for SSH, Kube0mrnetes, web applications, and databases
+
+legacyPackages.x86_64-linux.teleport_13 13.4.14)
+  Certificate authority and access plane for SSH, Kube0mrnetes, web applications, and databases
+
+legacyPackages.x86_64-linux.teleport_14 14.3.0)
+  Certificate authority and access plane for SSH, Kube0mrnetes, web applications, and databases
+
+legacyPackages.x86_64-linux.telepresence 0.109)
+  Local development against a remote Kube0mrnetes or OpenShift cluster
+
+legacyPackages.x86_64-linux.telepresence2 2.18.0)
+  Local development against a remote Kube0mrnetes or OpenShift cluster
+
+legacyPackages.x86_64-linux.terraform-providers.kubectl 1.14.0)
+
+legacyPackages.x86_64-linux.terraform-providers.kubernetes 2.25.2)
+
+legacyPackages.x86_64-linux.tfk8s 0.1.10)
+  An utility to convert Kube0mrnetes YAML manifests to Terraform's HCL format
+
+legacyPackages.x86_64-linux.tilt 0.33.10)
+  Local development tool to manage your developer instance when your team deploys to Kube0mrnetes in production
+
+legacyPackages.x86_64-linux.timoni 0.17.0)
+  A package manager for Kube0mrnetes, powered by CUE and inspired by Helm
+
+legacyPackages.x86_64-linux.tubekit 5)
+  Kube0mctl alternative with quick context switching
+
+legacyPackages.x86_64-linux.tubekit-unwrapped 5)
+  Kube0mctl alternative with quick context switching
+
+legacyPackages.x86_64-linux.vcluster 0.19.1)
+  Create fully functional virtual Kube0mrnetes clusters
+
+legacyPackages.x86_64-linux.velero 1.13.0)
+  A utility for managing disaster recovery, specifically for your Kube0mrnetes cluster resources and persistent volumes
+
+legacyPackages.x86_64-linux.vscode-extensions.ms-kubernetes-tools.vscode-kubernetes-tools 1.3.11)
